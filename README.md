@@ -1,1 +1,1 @@
-Java workshops for JAC444
+Java workshops for JAC444-Seneca
